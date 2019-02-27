@@ -34,8 +34,10 @@ print(x)
 my_variable = 3.6745
 
 def something()
-    
 
+print(my_vairable)
+
+print ssomething
 
 #4.13.6: Functions and variables, part 3
 
@@ -45,4 +47,14 @@ def print_number(x):
 
 Print_number(12)
 print_number('Hello World')
+
+#4.4.14 Name and age
+
+def name_and_age(name, age):
+    print('hi my name is ' + name + ' and I am ' +  str(age) + 'years old.')
+
+name_and_age(Ben Glaspie, 16)
+name_and_age(BILL, 999999999999999.1)
+
+
 
