@@ -57,4 +57,10 @@ name_and_age(Ben Glaspie, 16)
 name_and_age(BILL, 999999999999999.1)
 
 
+#4.14.5: defult peramiter values
 
+def print_two_numbers(x, y = 20):
+    print('first number: ', X)
+    print('second number: ' + str(y))
+
+    print_two_numbers
