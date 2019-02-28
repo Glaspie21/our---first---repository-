@@ -64,3 +64,12 @@ def print_two_numbers(x, y = 20):
     print('second number: ' + str(y))
 
     print_two_numbers
+    
+   #4.14.7: Print Multipile times
+#2.19.19
+
+def print_multiple_times(str, times):
+    for i in range(times):
+        print(str)
+
+print_multiple_times('hello computer people', 4)
