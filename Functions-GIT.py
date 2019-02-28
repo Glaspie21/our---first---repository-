@@ -63,4 +63,5 @@ def print_two_numbers(x, y = 20):
     print('first number: ', X)
     print('second number: ' + str(y))
 
-    print_two_numbers
+    print_two_numbers(2, 6)
+    print_two_numbers(23)
