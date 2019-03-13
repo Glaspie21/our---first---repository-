@@ -71,3 +71,20 @@ def print_two_numbers(x, y = 20):
     
   
 >>>>>>> 706b7c58f096b7dc5c4699759abfb12f105476f3
+
+
+
+
+
+
+
+
+
+
+
+
+adjective_discribing_something_unconstitutional = (input("Adjective discribing something unconstitutional: "))
+noun_like_racist_or_just_racist = (input("Noun like racist, or just racist: " ))
+scary_verb = (input("scary verb: "))
+
+
